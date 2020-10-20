@@ -4,7 +4,7 @@
 
 ## Basic Overview
 
-TillyWilly app frontend that utilizes a (TillyWilly API)[https://github.com/duderman/tilly-willy-api]
+TillyWilly app frontend that utilizes a [TillyWilly API](https://github.com/duderman/tilly-willy-api)
 
 #### Features
 
