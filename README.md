@@ -24,3 +24,7 @@ TillyWilly app frontend that utilizes a [TillyWilly API](https://github.com/dude
 npm install
 npm start
 ```
+
+## Demo
+
+![Demo](https://media.giphy.com/media/2R65OmHWFPToXMXX41/giphy.gif)
